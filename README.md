@@ -5,54 +5,54 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF3bm9oZzR4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjPQC1Q7UsC88/giphy.gif" width="550" style="border-radius: 20px; border: 2px solid #3776AB; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammed-alhagri&repo=AI-Portfolio&theme=tokyonight&show_owner=true" alt="AI Focus" style="display:none;">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa273-3920-4402-b56b-9d850854b471.gif" width="600" style="border-radius: 15px;">
 </p>
 
 ---
 
 ### 🚀 Professional Profile
-I am a specialized **AI Engineer** with a deep passion for building intelligent systems. My expertise spans across architecting neural networks, performing advanced data analytics, and developing high-performance algorithms using **C++** and **Python**.
+I am a specialized **AI Engineer** with a deep passion for building intelligent systems. My expertise spans across architecting neural networks, performing advanced data analytics, and developing high-performance algorithms using **C++** and **Python**. I specialize in bridging the gap between raw data and intelligent automation using platforms like **n8n**.
 
-- 🔭 **Current Focus:** Deep Learning, NLP, and High-Performance Computing.
-- 🌱 **Learning:** Integrating AI models into scalable web architectures.
-- ⚡ **Tech Philosophy:** Optimized code leads to powerful intelligence.
+- 🔭 **Current Focus:** Deep Learning & Neural Network Optimization.
+- 🌱 **Learning:** Scalable AI Deployment & Cloud Integration.
+- ⚡ **Philosophy:** "Efficiency is the bridge between code and intelligence."
 
 ---
 
-### 🛠️ Technical Stack (Tested Icons)
+### 🛠️ Technical Stack & Expertise
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,tensorflow,pytorch,mysql,mongodb,js,html,css,git,linux,vscode" />
   </a>
 </p>
 
----
-
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="33%"><strong>AI & Data</strong></td>
-    <td align="center" width="33%"><strong>Programming</strong></td>
-    <td align="center" width="33%"><strong>Automation</strong></td>
+    <td align="center" width="33%"><strong>🧠 AI & Machine Learning</strong></td>
+    <td align="center" width="33%"><strong>💻 Programming & DB</strong></td>
+    <td align="center" width="33%"><strong>🤖 Automation (n8n)</strong></td>
   </tr>
   <tr>
     <td align="center">
-      Machine Learning <br> Deep Learning <br> Computer Vision
+      Supervised/Unsupervised Learning <br> Deep Learning (CNNs, RNNs) <br> Data Visualization
     </td>
     <td align="center">
-      <b>Python</b> & <b>C++</b> <br> MySQL & NoSQL <br> HTML/CSS/JS
+      <b>Python</b> & <b>C++</b> <br> MySQL & MongoDB <br> Web Basics (HTML/CSS)
     </td>
     <td align="center">
-      <b>n8n</b> Platform <br> Workflow Design <br> API Integration
+      Workflow Automation <br> API Orchestration <br> n8n Custom Nodes
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Stats
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -64,5 +64,7 @@ I am a specialized **AI Engineer** with a deep passion for building intelligent 
 </p>
 
 <p align="center">
-  <i>"Harnessing the power of AI to create a smarter tomorrow."</i>
+  <br>
+  <i>"Transforming complex data into intelligent solutions."</i><br>
+  <b>Mohammed Al-Hagri</b>
 </p>
