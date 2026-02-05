@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I1ejNueGZ3bmZueXp3Y3R3Y3R3Y3R3Y3R3Y3R3Y3R3Y3R3Y3R3JlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjPQC1Q7UsC88/giphy.gif" width="600" style="border-radius: 15px;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJreG96Z3ZreXp4ZzB4eXp4ZzB4eXp4ZzB4eXp4ZzB4eXp4ZzAmbnA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="AI Neural Network">
 </p>
 
 ---
